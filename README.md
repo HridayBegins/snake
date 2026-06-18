@@ -34,5 +34,5 @@ A classic Snake game built with Python and Pygame.
 
 ## File Structure
 Snake/
-snake.py              # Main game file
+snake.py              # Main game file, 
 snake_highscore.json  # High score storage
